@@ -16,3 +16,5 @@ This process is repeated until the game is complete. Many games are played to up
 
 QLearning.py will automatically animate some samples games at various stages of the training process.
 
+
+https://github.com/daxit99/Snake_game-Reinforcement-learning/blob/main/iamges/Screenshot%20(177).png
